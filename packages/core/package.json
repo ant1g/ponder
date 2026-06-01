@@ -70,7 +70,7 @@
     "graphql-yoga": "^5.3.0",
     "http-terminator": "^3.2.0",
     "ink": "^4.4.1",
-    "kysely": "^0.26.3",
+    "kysely": "^0.28.17",
     "pg": "^8.11.3",
     "pg-connection-string": "^2.6.2",
     "pg-copy-streams": "^6.0.6",
@@ -102,7 +102,7 @@
     "execa": "^8.0.1",
     "rimraf": "^5.0.5",
     "tsx": "^4.19.2",
-    "vitest": "^1.0.2"
+    "vitest": "^4.1.0"
   },
   "engines": {
     "node": ">=18.14"
